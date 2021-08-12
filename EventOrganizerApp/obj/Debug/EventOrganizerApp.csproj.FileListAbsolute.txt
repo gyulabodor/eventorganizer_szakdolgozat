@@ -1,0 +1,84 @@
+c:\users\liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe.config
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.pdb
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csprojResolveAssemblyReference.cache
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_Login.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.Properties.Resources.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.GenerateResource.Cache
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.exe
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.pdb
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_MainMenu.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_NewEventTender.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.barcodes.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.forms.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.io.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.kernel.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.layout.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.pdfa.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.sign.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.svg.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\MySql.Data.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.barcodes.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.forms.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.io.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.kernel.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.layout.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.pdfa.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.sign.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.svg.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\MySql.Data.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_CheckTender.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_Tenders.resources
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.dll
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.pdb
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.xml
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Liza\documents\visual studio 2015\Projects\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe.config
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.exe
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\BouncyCastle.Crypto.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.barcodes.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.forms.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.io.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.kernel.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.layout.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.pdfa.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.sign.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.styledxmlparser.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.svg.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\MySql.Data.dll
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\BouncyCastle.Crypto.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.pdb
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.pdb
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\Common.Logging.Core.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.barcodes.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.forms.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.io.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.kernel.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.layout.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.pdfa.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.sign.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.styledxmlparser.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\itext.svg.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\MySql.Data.xml
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csprojAssemblyReference.cache
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_CheckTender.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_Login.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_MainMenu.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_NewEventTender.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.frm_Tenders.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.Properties.Resources.resources
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.GenerateResource.cache
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.CoreCompileInputs.cache
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.csproj.CopyComplete
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.exe
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\obj\Debug\EventOrganizerApp.pdb
+P:\Shared\projects\szakdolgozathoz\Szakdolgozat\EventOrganizerApp\EventOrganizerApp\bin\Debug\EventOrganizerApp.pdb
